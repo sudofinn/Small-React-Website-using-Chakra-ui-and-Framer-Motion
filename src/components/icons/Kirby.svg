@@ -1,0 +1,51 @@
+<svg width="232" height="202" viewBox="0 0 232 202" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Kirby">
+<g id="Foot">
+<path id="Ellipse 4" d="M58.0624 134.418C43.6398 143.27 27.7905 161.499 33.7556 171.219C39.7207 180.939 58.5506 177.753 72.9732 168.902C87.3958 160.05 88.4921 157.259 82.527 147.539C76.5619 137.82 72.485 125.567 58.0624 134.418Z" fill="#D74894"/>
+</g>
+<g id="Foot_2">
+<path id="Ellipse 4_2" d="M156.54 134.418C170.963 143.27 186.812 161.499 180.847 171.219C174.882 180.939 156.052 177.753 141.629 168.902C127.207 160.05 126.11 157.259 132.075 147.539C138.04 137.82 142.117 125.567 156.54 134.418Z" fill="#D74894"/>
+</g>
+<g id="Ellipse 7" filter="url(#filter0_f_2_168)">
+<ellipse cx="111.5" cy="179" rx="58.5" ry="8" fill="#D5D4D4"/>
+</g>
+<g id="Body">
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M109.964 160C154.147 160 189.964 124.183 189.964 80C189.964 35.8172 154.147 0 109.964 0C70.4768 0 37.6716 28.6086 31.1447 66.2295C30.8467 67.9469 29.7315 69.4162 28.1685 70.1876C26.4178 71.0516 24.6763 72.0168 22.9564 73.0835C4.18288 84.7276 -4.90042 104.059 2.66825 116.262C8.56099 125.763 22.8103 128.141 37.6919 123.233C40.0307 122.462 42.6364 123.297 44.0333 125.325C58.4597 146.27 82.6084 160 109.964 160Z" fill="#FFC1CC"/>
+<g id="Mouth">
+<path id="Rectangle 3" d="M96.4545 88.0022H127.039C127.039 88.0022 133.404 93.1444 123.309 103.596C112.809 114.466 111.374 117.705 100.184 103.596C88.9951 89.4874 96.4545 88.0022 96.4545 88.0022Z" fill="#D74894"/>
+<g id="Rectangle 4" filter="url(#filter1_d_2_168)">
+<path d="M96.5192 88.0022H127.019C127.019 88.0022 129.038 88.282 129.019 91.5022C128.993 95.8419 93.0633 95.2092 94.0187 91.0022C94.7437 87.8103 96.5192 88.0022 96.5192 88.0022Z" fill="black"/>
+</g>
+</g>
+<g id="Frame 2">
+<g id="Eye">
+<path id="Rectangle 1" d="M85.1859 39.9738C87.2741 34.5952 97.5388 34.7562 100.004 39.9738C102.292 44.8158 103.014 70.5144 100.004 76.3255C97.3502 81.4504 88.5838 80.9939 85.1859 76.3255C81.7516 71.6073 82.8417 46.0117 85.1859 39.9738Z" fill="black"/>
+<path id="Rectangle 2" d="M88.3805 39.0772C89.6995 36.2657 96.1824 36.3498 97.7396 39.0772C99.1846 41.6083 99.6403 55.0416 97.7396 58.0793C96.0633 60.7582 90.5266 60.5195 88.3805 58.0793C86.2115 55.6129 86.9 42.2334 88.3805 39.0772Z" fill="white"/>
+</g>
+<g id="Eye_2">
+<path id="Rectangle 1_2" d="M124.186 39.9738C126.274 34.5952 136.539 34.7562 139.004 39.9738C141.292 44.8158 142.014 70.5144 139.004 76.3255C136.35 81.4504 127.584 80.9939 124.186 76.3255C120.752 71.6073 121.842 46.0117 124.186 39.9738Z" fill="black"/>
+<path id="Rectangle 2_2" d="M127.381 39.0772C128.699 36.2657 135.182 36.3498 136.74 39.0772C138.185 41.6083 138.64 55.0416 136.74 58.0793C135.063 60.7582 129.527 60.5195 127.381 58.0793C125.212 55.6129 125.9 42.2334 127.381 39.0772Z" fill="white"/>
+</g>
+</g>
+<g id="Hand">
+<ellipse id="Ellipse 5" cx="177.465" cy="52.8561" rx="40" ry="26" transform="rotate(-41.8548 177.465 52.8561)" fill="#FFC1CC"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_2_168" x="49" y="167" width="125" height="24" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_2_168"/>
+</filter>
+<filter id="filter1_d_2_168" x="90" y="88" width="43.0188" height="14.4712" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_168"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_168" result="shape"/>
+</filter>
+</defs>
+</svg>

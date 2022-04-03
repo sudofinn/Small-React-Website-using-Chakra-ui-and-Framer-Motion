@@ -1,0 +1,67 @@
+.emoji {
+    display:flex;
+    justify-content: center;
+    margin:70px;
+    
+  }
+
+.maintext {
+    text-align: center;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.heading {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+    
+
+ }
+
+
+  
+.primarytext {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+.nav {
+  display: flex;
+  float:right;
+  margin-top:-50px; /* passt nur so */
+  margin-right:10px;
+}
+
+.menulist:hover {
+  
+  font-size:20px;
+}
+
+.menulistsettings:hover {
+  font-size: 25px;
+}
+
+.badgedowndiv {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+
+
